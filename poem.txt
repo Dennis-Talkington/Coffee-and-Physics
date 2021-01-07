@@ -2,7 +2,7 @@ Coffee and Physics
 
 1  Coffee makes math better
 2  Physics makes the world go round (literally)
-3  Bekcy
+3  Becky
 4  Leah
 5  Coffee has caused me nothing but pain.
 6  Brianna
@@ -11,4 +11,5 @@ Coffee and Physics
 9  Madeline
 10 Kristina
 
+There is nothing quite like a physics paper with a coffee stain.
 
